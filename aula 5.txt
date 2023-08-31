@@ -1,0 +1,20 @@
+Atividade aula - Início
+Crie um arquivo index.html com style.css
+Crie um repositório no github
+Inicie um repositório local utilizando o terminal git bash 
+adicione o arquivo a ser subido para o repositorio remoto
+confira se voce adicionou este arquivo, faça a ligacao entre
+seu repositorio remoto.
+Crie um comentario deste arquivo
+suba o arquivo para o github
+
+//Desafio
+Tente criar um branch
+Alterne entre as branches
+e suba uma alteracao do arquivo para a branch que voce criou
+
+//Desafio2
+Tente criar um branch
+Altere entre as branches
+e suba uma alteração do arquivo para a branch que você criou
+

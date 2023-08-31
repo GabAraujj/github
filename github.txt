@@ -1,0 +1,10 @@
+GIT E Github
+
+GIT: Sistema de controle de projetos
+- Terminal (baseada linux);
+- Gerencia um repositório local;
+- Cada versão é conhecida como Brend;
+  Brend Master: Repositório local
+  Brend Main:   Repositório Remoto
+
+- Merge;

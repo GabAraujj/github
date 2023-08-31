@@ -1,0 +1,15 @@
+
+Para completar este nível, faça o seguinte:
+
+Crie um novo ramo chamadobugFix
+Faça checkout no ramo bugFixcomgit checkout bugFix
+Faça um commit
+Volte ao maincomgit checkout
+Faça um novo commit
+Junte-se ao ramo bugFixno maincomgit merge
+
+-------------------------------------------
+
+git merge ""
+git branch ""
+Commit
